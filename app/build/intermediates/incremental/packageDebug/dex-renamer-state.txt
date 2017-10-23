@@ -1,0 +1,7 @@
+#Mon Oct 23 04:35:19 KST 2017
+base.0=C\:\\python\\AndroidJSONParsing1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2bdf3d184776bdb3e19fe68f7af01c5d51cee6be
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\python\\AndroidJSONParsing1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_66802f83567fbc5f78ee72a4fd769e08dadf6b65\\classes.dex
+base.1=C\:\\python\\AndroidJSONParsing1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_66802f83567fbc5f78ee72a4fd769e08dadf6b65
+file.0=C\:\\python\\AndroidJSONParsing1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2bdf3d184776bdb3e19fe68f7af01c5d51cee6be\\classes.dex

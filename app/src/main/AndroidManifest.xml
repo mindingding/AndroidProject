@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.Korea_boxoffice.jsonparsing">
+
+    <application
+        android:icon="@drawable/ic_launcher"
+        android:label="Korea Boxoffice" >
+        <activity
+            android:label="Boxoffice"
+            android:name="com.Korea_boxoffice.jsonparsing.AndroidJSONParsingActivity" >
+            <intent-filter >
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        
+        <!-- Single List Item View -->
+        <activity
+            android:label="Single Menu Item"
+            android:name="com.Korea_boxoffice.jsonparsing.SingleMenuItemActivity" >
+        </activity>
+    </application>
+    
+    <uses-permission android:name="android.permission.INTERNET" />
+
+</manifest>
